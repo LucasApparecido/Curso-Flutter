@@ -1,0 +1,48 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Oficial",
+            "cwd": "2_Nocoes_Basicas_de_Flutter\\Oficial",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "Oficial (profile mode)",
+            "cwd": "2_Nocoes_Basicas_de_Flutter\\Oficial",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "Oficial (release mode)",
+            "cwd": "2_Nocoes_Basicas_de_Flutter\\Oficial",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "teste",
+            "cwd": "2_Nocoes_Basicas_de_Flutter\\teste",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "teste (profile mode)",
+            "cwd": "2_Nocoes_Basicas_de_Flutter\\teste",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "teste (release mode)",
+            "cwd": "2_Nocoes_Basicas_de_Flutter\\teste",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
